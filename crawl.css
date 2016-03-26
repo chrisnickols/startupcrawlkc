@@ -1,0 +1,166 @@
+.center {
+	text-align: center;
+	margin: auto;
+}
+
+.right {
+	text-align: right;
+}
+
+.left {
+	text-align: left;
+}
+
+.green-background {
+background-color: #69ae30;
+}
+
+.dkgrey-background {
+	background-color: #515151;
+
+}
+
+.grey-background {
+	background-color: #7b7b7b;
+}
+
+.white-text {
+	color: #fff;
+}
+
+.grey-text {
+	color: #999;
+}
+
+.readable-text {
+	font-size: 150%;
+}
+
+
+.navbar {
+	height: 120px;
+} 
+
+.padding {
+	padding: 10px;
+}
+
+.top-space {
+	margin-top: 25px;
+}
+
+.card {
+	
+	background-color: #fcb316;
+	box-shadow: 5px 5px 2px #a1a1a1;
+	padding: 10px;
+}
+
+.card2 {
+	
+	background-color: #fcb316;
+	box-shadow: 3px 3px 2px #a1a1a1;
+	padding: 10px;
+}
+
+.card3 {
+	
+	background-color: #01a9cd;
+	box-shadow: 3px 3px 2px #a1a1a1;
+	padding: 10px;
+}
+
+.card4 {
+	
+	background-color: #8fca45;
+	box-shadow: 3px 3px 2px #a1a1a1;
+	padding: 10px;
+}
+
+
+
+.card-blog {
+	
+	background-color: #fff;
+	box-shadow: 3px 3px 2px #dfdfdf;
+	width: 80%;
+	margin: -10px auto;
+	border: 1px solid #dfdfdf;
+}
+
+.card-min-height {
+	min-height: 400px;
+}
+
+
+h1 {
+	font-size: 165%;
+
+}
+
+h2 {
+	font-size: 155%;
+
+}
+
+.left-text {
+	text-align: left;
+}
+
+#sponsor-list {
+	width: 90%;
+	text-align: left;
+	margin: auto;
+}
+
+.call-to-action {
+	background-color: #01a9cd;
+	box-shadow: 5px 5px 3px #a1a1a1;
+	padding: 5px;
+	width: 280px;
+	margin: auto;
+	text-align: center;
+}
+
+
+
+#shuttle-sponsor {
+	background-image: url(images/startupcrawl-shuttle-sponsor.png);
+	background-position: bottom right;
+	background-repeat: no-repeat;
+}
+
+#wrist-sponsor {
+	background-image: url(images/startupcrawl-wrist-sponsor.png);
+	background-position: bottom right;
+	background-repeat: no-repeat;
+}
+
+#lanyard-sponsor {
+	background-image: url(images/startupcrawl-lanyard-sponsor.png);
+	background-position: top right;
+	background-repeat: no-repeat;
+}
+
+#chotchkie-sponsor {
+	background-image: url(images/startupcrawl-koosie-sponsor.png);
+	background-position: bottom right;
+	background-repeat: no-repeat;
+}
+
+#sb {
+	background-image: url(images/sb/sb-jumbo.jpg);
+	background-position: top center;
+	background-repeat: no-repeat;
+	margin-top: -50px;
+	min-height: 600px;
+}
+
+
+#thanks {
+	font-size: 125%;
+}
+
+#thanks a{
+	color: #666;
+}
