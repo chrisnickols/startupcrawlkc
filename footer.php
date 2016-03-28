@@ -5,7 +5,6 @@
                 <p class="flow-text">
                     "The startup crawl was one of the first startup events I attended after moving to KC. It was such a fantastic night and instantly made me feel connected with everything going on in the community. We met some amazing people and made some lasting connections."
                 </p>
-                <p style="font-size: 78%;">Startup Crawl KC is a <a href="http://www.kcsourcelink.com/1weekkc">1 Week KC event</a><br />Visit the site for more great events</p>
             </div>
             <div class="col m3 hide-on-small-only">
                 &nbsp;
@@ -18,6 +17,10 @@
 <!--                    <a class="collection-item white-text" href="#"><i class="fa fa-instagram fa-lg"></i> instagram</a>-->
 <!--                    <a class="collection-item white-text" href="#"><img class="periscope-icon" src="/images/periscope-icon.png"> periscope</a>-->
                     <a class="collection-item white-text" href="bsod"><i class="fa fa-pied-piper-alt fa-lg"></i> pied piper</a>
+                </div>
+                <div class="oneweekkc">
+                    Startup Crawl KC is a <a href="http://www.kcsourcelink.com/1weekkc" target="_blank">1 Week KC event</a><br />
+                    Visit the site for more great events
                 </div>
             </div>
         </div>

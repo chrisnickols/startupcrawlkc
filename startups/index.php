@@ -5,6 +5,9 @@ require('../header.php');
 
 <div class="section white">
     <div class="container content">
+        <div class="center-align">
+            <i class="fa fa-rocket fa-4x"></i>
+        </div>
         <h3>We're looking for a few good startups</h3>
         <p>Are you looking to find potential customers, investors or employees? Then join us for the 2016 KC Startup Crawl! With over 800 expected community members, last year's event fostered CTO hires, secured investments and facilitated getting companies in front of influential KC movers and shakers.</p>
         <p class="center-align"><span class="yellow">The best part? It's free for startups to join!</span></p>
