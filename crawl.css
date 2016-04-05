@@ -149,11 +149,21 @@ h2 {
 }
 
 #sb {
-	background-image: url(images/sb/sb-jumbo.jpg);
+	background-image: url(images/sb/chris-mark-and-jack2.jpg);
 	background-position: top center;
 	background-repeat: no-repeat;
 	margin-top: -50px;
-	min-height: 600px;
+	min-height: 650px;
+}
+
+#navlist li
+{
+display: inline;
+list-style-type: none;
+padding-right: 20px;
+
+color: #999;
+
 }
 
 
