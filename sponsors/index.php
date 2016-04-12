@@ -5,7 +5,9 @@ require('../header.php');
 
 <div class="section road-section first">
     <div class="container">
-        <div class="sponsor-title"><strong>Startup Crawl KC would not be possible without our amazing sponsors.</strong> Their commitment to area startups and entrepreneurs help make KC great.</div>
+        <div class="sponsor-title"><strong>Startup Crawl KC would not be possible without our amazing sponsors.</strong> Their commitment to area startups and entrepreneurs help make KC great.
+        <br /><span style="font-size: 56%;"><a style="color: #fff;" href="sponsors/KCStartupCrawl-SponsorRequest2-2016.pdf">Sponsor PDF (4.3 MB)</a>
+            <a style="color: #fff; padding-left: 15px;" href="sponsors/startupcrawl-afterparty-sponsor.pdf">After Party Sponsor PDF (4.7 MB)</a></span></div>
         <div class="road-curve left">
             <img src="sponsors/images/startupcrawl-curve-left.png">
         </div>
