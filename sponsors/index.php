@@ -55,7 +55,7 @@ require('../header.php');
         <div class="white-text">
             <h2 class="header">Seigfreid Bingham</h2>
             <p>Seigfreid Bingham is a law firm of Kansas City attorneys who focus on your business so we can help you succeed. We have a distinguished history in helping our clients succeed in business and litigation using a blend of broad expertise, knowledgeable and enthusiastic lawyers, coupled with attentive, responsive and strategic service.</p>
-           <!-- <a class="waves-effect waves-light btn" href="http://www.sb-kc.com/">Seigfreid Bingham Website</a>-->
+           <a class="waves-effect waves-light btn" href="http://startupcrawlkc.com/seigfreid-bingham.htm">Seigfreid Bingham SB NOW PAGE</a>
         </div>
     </div>
 </div>
@@ -210,6 +210,44 @@ require('../header.php');
         </div>
         <div class="sponsor-stop">
             <img class="shadow" src="sponsors/images/sponsor-stop-blank.png">
+            <img class="sponsor-bus" src="sponsors/images/startupcrawl-bus-trinet.png">
+        </div>
+    </div>
+</div>
+
+<div class="section sponsor-section z-depth-1 hoverable sc-red">
+    <div class="row container">
+        <img class="sponsor-badge" src="sponsors/images/sponsor-badge-bg-trinet.png">
+        <div class="white-text">
+            <h2 class="header">TriNet</h2>
+            <p> TriNet provides small and midsize businesses with an HR solution so they can free themselves from the complexities of HR and focus on their goals. As their trusted HR business partner, TriNet assumes many         of the responsibilities of being an employer and helps these companies contain HR costs, minimize employer-related risks and relieve the administrative burden of HR. 
+</p>
+            <a class="waves-effect waves-light btn" href="http://www.trinet.com/resources/startup_central/">TriNet Website</a>
+        </div>
+    </div>
+</div>
+
+<div class="section road-section">
+    <div class="container">
+        <div class="road-curve left">
+            <img src="sponsors/images/startupcrawl-curve-left.png">
+        </div>
+        <div class="road-curve right">
+            <img src="sponsors/images/startupcrawl-curve-right.png">
+        </div>
+    </div>
+</div>
+
+<!--<div class="section road-section">
+    <div class="container">
+        <div class="road-curve left">
+            <img src="sponsors/images/startupcrawl-curve-left.png">
+        </div>
+        <div class="road-curve right">
+            <img src="sponsors/images/startupcrawl-curve-right.png">
+        </div>
+        <div class="sponsor-stop">
+            <img class="shadow" src="sponsors/images/sponsor-stop-blank.png">
         </div>
     </div>
 </div>
@@ -238,5 +276,6 @@ require('../header.php');
         </div>
     </div>
 </div>
+-->
 
 <?php require('../footer.php') ?>

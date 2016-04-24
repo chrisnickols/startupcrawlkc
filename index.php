@@ -42,7 +42,8 @@ require('header.php');
 
 <div class="thin-banner">
     <div class="container center-align white-text">
-        <i class="fa fa-ticket fa-lg"></i> Tickets Available SPRING 2016
+        <i class="fa fa-ticket fa-lg"></i> <a style="color: #fff; text-decoration: underline;" href="http://www.kcsourcelink.com/1weekkc">Tickets Available Through 1 Week KC</a> 
+        <!--or through the <a href="https://itunes.apple.com/us/app/flokk/id827600627?mt=8">Flokk App</a>-->
     </div>
 </div>
 
