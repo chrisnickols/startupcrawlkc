@@ -54,7 +54,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-TS65X8');</script>
 <!-- End Google Tag Manager -->
 
-
+<div class="register-banner hide">
+    <a href="/register">Don't miss the Crawl. <strong>Register Today!</strong></a>
+</div>
 
 <nav class="lighten-1">
     <div class="nav-wrapper container">
