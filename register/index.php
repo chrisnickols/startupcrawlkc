@@ -1,5 +1,5 @@
 <?php
-$p = 'startups';
+$p = 'register';
 require('../header.php');
 ?>
 
