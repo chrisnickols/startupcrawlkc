@@ -252,6 +252,10 @@ nav a, nav ul a {
     vertical-align: -35%;
 }
 
+
+
+
+
 /********** SPONSORS **********/
 .road-section, .road-curve {
     background-color: #3c697e;
@@ -381,11 +385,46 @@ img.shadow {
 }
 
 
+
+
+
 /********** LOCATIONS **********/
 .locations-page .card .card-content .card-title {
     margin-bottom: 10px;
     line-height: 28px;
 }
+
+
+
+
+
+/********** STARTUPS **********/
+.startups-page .collection {
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+}
+
+.startups-page .collection.with-header .collection-header {
+
+}
+
+.startups-page .collection-item {
+    font-size: smaller;
+    transition: .2s;
+}
+
+.startups-page .collection-item:hover {
+    background-color: #ffffe6;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.startups-page .chip {
+    margin-bottom: 1rem;
+}
+
+
+
 
 
 /********** REGISTER **********/
@@ -396,6 +435,7 @@ img.shadow {
 .register-page .card.medium .card-content p {
     font-size: 16px;
 }
+
 
 
 
