@@ -388,6 +388,15 @@ img.shadow {
 }
 
 
+/********** REGISTER **********/
+.register-page .card.medium .card-content {
+    max-height: 83%;
+}
+
+.register-page .card.medium .card-content p {
+    font-size: 16px;
+}
+
 
 
 

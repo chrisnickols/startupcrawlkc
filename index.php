@@ -42,7 +42,7 @@ require('header.php');
 
 <div class="thin-banner">
     <div class="container center-align white-text">
-        <i class="fa fa-ticket fa-lg"></i> <a style="color: #fff; text-decoration: underline;" href="http://www.kcsourcelink.com/1weekkc">Tickets Available Through 1 Week KC</a> 
+        <i class="fa fa-ticket fa-lg"></i> Tickets Available Through 1 Week KC & Flokk App
         <!--or through the <a href="https://itunes.apple.com/us/app/flokk/id827600627?mt=8">Flokk App</a>-->
     </div>
 </div>
@@ -54,7 +54,19 @@ require('header.php');
         <div class="center-align">
             <a class="subscribe-btn waves-effect waves-light btn-large modal-trigger" href="#modal1">Subscribe to the Crawl News</a>
             <p class="flow-text left-align">
-                Startup Crawl KC offers area residents a one-night tour of the metro's many budding companies. The goal of this event is to make the startup arena, even more, accessible to local hopefuls, new arrivals and the community in general.  Everyone curious about startups is welcome.  Past crawls have included over <span class="yellow">100</span> various startups and have allowed community members to meet the founders and teams and be inspired to get involved.  It's a great opportunity for homegrown entrepreneurs to tell their stories, extend hospitality and connect with new faces.
+                Startup Crawl KC offers area residents a one-night tour of the metro's many budding companies. </p>
+                
+              <p class="flow-text left-align  blue-text  blue-text" style="font-weight: bold">
+              The Crawl Agenda for May 20th
+              <br />4pm - Location Doors Open
+              <br />4:30pm - First Buses leave to start crawl loop
+              <br />9pm - Buses start last loop to get back to your car
+              <br />10pm - Location close doors for the night
+              <br /><br />After Party Details Coming Soon
+              </p>  
+                
+                
+                <p class="flow-text left-align">  The goal of this event is to make the startup arena, even more, accessible to local hopefuls, new arrivals and the community in general.  Everyone curious about startups is welcome.  Past crawls have included over <span class="yellow">100</span> various startups and have allowed community members to meet the founders and teams and be inspired to get involved.  It's a great opportunity for homegrown entrepreneurs to tell their stories, extend hospitality and connect with new faces.
             </p>
         </div>
     </div>

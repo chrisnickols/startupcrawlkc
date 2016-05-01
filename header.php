@@ -14,6 +14,12 @@
     <meta name="description" content="Kansas City Startup Crawl showcases the best startups in the Kansas City meto area. " />
     <meta name="keywords" content="startup crawl, Kansas City, accelerator, incubator, entrepreneur" />
 
+	<meta property="og:url"                content="http://startupcrawlkc.com" />
+	<meta property="og:type"               content="article" />
+	<meta property="og:title"              content="Startup Crawl KC 2016" />
+	<meta property="og:description"        content="Meet the best startups in KC on a crawl across the metro." />
+	<meta property="og:image"              content="http://startupcrawlkc.com/images/startupcrawlkc_cta.jpg" />
+
     <title>Startup Crawl KC 2016</title>
 
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
@@ -54,7 +60,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-TS65X8');</script>
 <!-- End Google Tag Manager -->
 
-<div class="register-banner hide">
+<div class="register-banner">
     <a href="/register">Don't miss the Crawl. <strong>Register Today!</strong></a>
 </div>
 
