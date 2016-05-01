@@ -8,8 +8,6 @@
 <!doctype html>
 <html lang="en-US">
 <head>
-    <base href="/">
-
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
     <meta name="description" content="Kansas City Startup Crawl showcases the best startups in the Kansas City meto area. " />
     <meta name="keywords" content="startup crawl, Kansas City, accelerator, incubator, entrepreneur" />
@@ -44,7 +42,7 @@
 
     <link href="//cdnjs.cloudflare.com/ajax/libs/materialize/0.97.5/css/materialize.min.css" rel="stylesheet">
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
-    <link href="custom-styles.css" rel="stylesheet">
+    <link href="/custom-styles.css" rel="stylesheet">
 
 </head>
 
@@ -68,7 +66,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <div class="nav-wrapper container">
         <div class="valign-wrapper">
             <div class="valign">
-                <a href="." class="brand-logo">
+                <a href="/" class="brand-logo">
                     <p>
                         STARTUP CRAWL KC<br>
                         <span class="highlight">MAY 20th, 2016</span>
@@ -78,17 +76,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
         <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="fa fa-bars"></i></a>
         <ul class="right hide-on-med-and-down">
-            <li<?php if ($p == 'sponsors') { echo $active; } ?>><a href="sponsors">Sponsors</a></li>
-            <li<?php if ($p == 'locations') { echo $active; } ?>><a href="locations">Crawl Locations</a></li>
-            <li<?php if ($p == 'startups') { echo $active; } ?>><a href="startups">Startups</a></li>
-            <li<?php if ($p == 'blog') { echo $active; } ?>><a href="blog">Blog</a></li>
+            <li<?php if ($p == 'sponsors') { echo $active; } ?>><a href="/sponsors">Sponsors</a></li>
+            <li<?php if ($p == 'locations') { echo $active; } ?>><a href="/locations">Crawl Locations</a></li>
+            <li<?php if ($p == 'startups') { echo $active; } ?>><a href="/startups">Startups</a></li>
+            <li<?php if ($p == 'blog') { echo $active; } ?>><a href="/blog">Blog</a></li>
         </ul>
         <ul class="side-nav" id="mobile-demo">
             <li><a href=".">Home</a></li>
-            <li<?php if ($p == 'sponsors') { echo $active; } ?>><a href="sponsors">Sponsors</a></li>
-            <li<?php if ($p == 'locations') { echo $active; } ?>><a href="locations">Crawl Locations</a></li>
-            <li<?php if ($p == 'startups') { echo $active; } ?>><a href="startups">Startups</a></li>
-            <li<?php if ($p == 'blog') { echo $active; } ?>><a href="blog">Blog</a></li>
+            <li<?php if ($p == 'sponsors') { echo $active; } ?>><a href="/sponsors">Sponsors</a></li>
+            <li<?php if ($p == 'locations') { echo $active; } ?>><a href="/locations">Crawl Locations</a></li>
+            <li<?php if ($p == 'startups') { echo $active; } ?>><a href="/startups">Startups</a></li>
+            <li<?php if ($p == 'blog') { echo $active; } ?>><a href="/blog">Blog</a></li>
         </ul>
     </div>
 </nav>

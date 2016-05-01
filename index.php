@@ -42,7 +42,7 @@ require('header.php');
 
 <div class="thin-banner">
     <div class="container center-align white-text">
-        <i class="fa fa-ticket fa-lg"></i> Tickets Available Through 1 Week KC & Flokk App
+        <a href="/register"><i class="fa fa-ticket fa-lg"></i> Tickets Available Through 1 Week KC & Flokk App</a>
         <!--or through the <a href="https://itunes.apple.com/us/app/flokk/id827600627?mt=8">Flokk App</a>-->
     </div>
 </div>

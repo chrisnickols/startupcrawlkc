@@ -27,13 +27,13 @@ $i = 0;
         <div class="row">
 <?php foreach ($entries as $entry): ?>
             <div class="col s12 m4">
-                <div class="card hoverable">
+                <div class="card small hoverable">
                     <div class="card-content">
-                        <span class="card-title"><?=$entry['title']?></span>
+                        <h6 class="card-title"><?=$entry['title']?></h6>
                         <p><?=$entry['body']?> &hellip;</p>
                     </div>
                     <div class="card-action right-align">
-                        <a href="blog/entries.php?<?=$entry['url']?>">Read More</a>
+                        <a href="entries.php?<?=$entry['url']?>">Read More</a>
                     </div>
                 </div>
             </div>

@@ -22,7 +22,7 @@ $title = $title[1];
                 <nav class="breadcrumb-nav sc-red">
                     <div class="nav-wrapper">
                         <div class="col s12">
-                            <a href="blog" class="breadcrumb">Blog</a>
+                            <a href="/blog" class="breadcrumb">Blog</a>
                             <a class="breadcrumb"><?=$title?></a>
                         </div>
                     </div>

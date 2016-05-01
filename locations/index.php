@@ -82,7 +82,7 @@ require('../header.php');
                     <div class="col s12 m6 l4">
                         <div class="card medium">
                             <div class="card-image waves-effect waves-block waves-light">
-                                <img class="activator" src="images/locations/<?=$locale['image']?>">
+                                <img class="activator" src="/images/locations/<?=$locale['image']?>">
                             </div>
                             <div class="card-content">
                                 <div class="card-title activator grey-text text-darken-4"><i class="fa fa-ellipsis-v right"></i><?=$locale['title']?></div>

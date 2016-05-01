@@ -13,7 +13,7 @@ require_once('data.php');
 
             <div class="center-align">
 <?php foreach($locations as $key => $location): ?>
-                <div class="chip"><a href="./#<?=$key?>"><?=$location?></a></div>
+                <div class="chip"><a href="#<?=$key?>"><?=$location?></a></div>
 <?php endforeach; ?>
             </div>
 

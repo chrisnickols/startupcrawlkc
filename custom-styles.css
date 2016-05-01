@@ -29,9 +29,16 @@ body {
 }
 
 .thin-banner {
-    /*background-color: #8fca45;*/
     background-color: #64912b;
     padding: 4px 0 15px 0;
+}
+
+.thin-banner a {
+    position: relative;
+    background: rgba(143, 202, 69, 0.45);
+    border-radius: 4px;
+    color: #fff;
+    padding: 4px 8px;
 }
 
 footer.page-footer {
@@ -366,6 +373,20 @@ img.shadow {
     filter: drop-shadow(0 8px 10px rgba(0,0,0,0.3));
 }
 
+
+
+
+
+/********** BLOG **********/
+.blog-page .card.small .card-content {
+    max-height: 80%;
+}
+
+.blog-page .card .card-content .card-title {
+    /*font-size: 24px;*/
+    line-height: 24px;
+    margin-bottom: 10px;
+}
 
 .breadcrumb:before {
     font-family: FontAwesome;

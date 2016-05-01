@@ -55,7 +55,7 @@ require('../header.php');
         <div class="startup-showcase center-align row z-depth-1 grey lighten-2">
             <div class="col s12">
                 <h5>Startups, learn how to maximize the opportunity to showcase your startup</h5>
-                <p><a class="" href="startups/KCStartupCrawl2-StartupTips-2016.pdf">Startup Showcase Tips PDF (6.2 MB)</a></p>
+                <p><a class="" href="KCStartupCrawl2-StartupTips-2016.pdf">Startup Showcase Tips PDF (6.2 MB)</a></p>
             </div>
         </div>
 
